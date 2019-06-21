@@ -1,0 +1,17 @@
+{
+  "name": "learning-pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phoby Sula",
+  "license": "ISC",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "~4.15.2",
+    "pug": "~2.0.0-beta11",
+    "swig": "^1.4.2"
+  }
+}
